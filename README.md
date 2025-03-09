@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Freeboardtortoise
-- 👀 I’m interested in: pyhon Coding
+- 👀 I’m interested in: python Coding
 - 🌱 I’m currently learning: The depths of python and linux
 - 💞️ I’m looking to collaborate on: any kind of python project
 - 📫 How to reach: I prefur to be anonomus
